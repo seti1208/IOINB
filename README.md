@@ -4,3 +4,5 @@ Kody związane z przedmiotem Inżynieria oprogramowania
 
 
 rzeka
+
+Gury
