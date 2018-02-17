@@ -3,5 +3,4 @@
 Kody związane z przedmiotem Inżynieria oprogramowania
 
 
-Żeka - błędny tekst
-kdlfklklkfd
+rzeka
